@@ -1,3 +1,3 @@
 # Paradrop
 
-EBAY Idea
+Marketplace for Sneakers
